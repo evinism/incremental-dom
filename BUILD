@@ -123,7 +123,7 @@ pkg_npm(
 
 pkg_npm(
     name = "npm",
-    package_name = "incremental-dom",
+    package_name = "incremental-dom-evinism",
     srcs = [
         "index.ts",
         "package.json",
